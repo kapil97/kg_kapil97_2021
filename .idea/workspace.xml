@@ -3,9 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="26d44846-5fc0-4583-9fc4-2660fe7daef6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CharacterMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/CharacterMapper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CharacterMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CharacterMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CharacterMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +54,10 @@
       <option name="presentableId" value="Default" />
       <updated>1584603179201</updated>
       <workItem from="1584603183530" duration="1524000" />
-      <workItem from="1584650898090" duration="4849000" />
+      <workItem from="1584650898090" duration="5023000" />
+      <workItem from="1584685047777" duration="18000" />
+      <workItem from="1584689009347" duration="455000" />
+      <workItem from="1584719963432" duration="820000" />
     </task>
     <servers />
   </component>

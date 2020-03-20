@@ -1,4 +1,3 @@
-
 public class Main {
     public static void main(String[] args){
         final int REQUIRED_NUMBER_OF_ARGS = 2;
