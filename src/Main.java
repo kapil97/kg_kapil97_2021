@@ -20,6 +20,7 @@ public class Main {
 
         CharacterMapper characterMap= new CharacterMapper();
         characterMap.setStrings(args[0],args[1]);
-        characterMap.buildMap();
+        boolean result=characterMap.buildMap();
+        System.out.println(result);
     }
 }
