@@ -1,5 +1,4 @@
 import java.util.HashMap;
-import java.util.Iterator;
 import java.util.Map;
 
 public class CharacterMapper {
@@ -16,9 +15,8 @@ public class CharacterMapper {
         char[] subArray = subject.toCharArray();
         char[] obsArray=observer.toCharArray();
         charMap.put(subArray[0],obsArray[0]);
-
         for(int k=1;k<subArray.length;k++){
-            if(charMap.get(subArray[k])!=null){
+            if(charMap.get(subArray[k])!=null && charMap.get(subArray[k])!=obsArray[k]){
                 flag=1;
             }
             else
@@ -26,5 +24,4 @@ public class CharacterMapper {
         }
         return 1 != flag;
     }
-
 }
